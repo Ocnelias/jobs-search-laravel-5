@@ -9,7 +9,7 @@ For the applicant:
 - Detailed job search by various parameters: search by keywords, categories, cities, types of employment, experience levels, salary thresholds.
 
 
-- For the employer:
+For the employer:
 
 - Сreating a company profile.
 - Ability to place a company profile in the employer's database
